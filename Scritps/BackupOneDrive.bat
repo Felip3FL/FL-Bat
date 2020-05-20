@@ -6,3 +6,7 @@ Robocopy "C:\Nintendo Wii U\CEMU\gameProfiles"          "C:\Users\felip\OneDrive
 
 REM METAL GEAR REVENGEANCE
 Robocopy "C:\Users\felip\Documents\MGR" "C:\Users\felip\OneDrive\Documents\My Games\MGR" /mir /z
+
+REM SETTINGS
+Robocopy "C:\Users\felip\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState" "C:\Users\felip\OneDrive\Documents\Settings\Windows Terminal" /mir /z
+
